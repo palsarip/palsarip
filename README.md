@@ -54,4 +54,12 @@
   </a>
 </p>
 <hr>
-![snake gif](https://github.com/palsarip/palsarip/blob/output/github-contribution-grid-snake.gif)
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/palsarip/palsarip/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
