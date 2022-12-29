@@ -19,7 +19,7 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently looking for a collaboration.
+  🧑‍💼 I’m currently looking for a collaboration or projects.
   <br>
 </h4>
 
