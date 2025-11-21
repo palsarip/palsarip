@@ -15,7 +15,7 @@
   Hi, I'm M. Naufal Syarif a Learner 👨‍💻 &  gamer 🦸‍♂️ from Indonesia
   <br>
   <br>
-  🎓 Currently a second year student on <a href="https://umn.ac.id/"> Multimedia Nusantara University.</a>
+  🎓 A fresh graduate from <a href="https://umn.ac.id/"> Multimedia Nusantara University.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
